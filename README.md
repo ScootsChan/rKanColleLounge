@@ -32,3 +32,7 @@ Scoots - us army guy that manages communications and tech stuff
 ### Currently implemented Kanmusumes
 
 Ashigara (1% done)
+
+### Want to help out?
+
+[Join the Discord Server!](https://discord.gg/Jduu7EC) This is where all of the planning, developing, and everything else for the game will take place! 
