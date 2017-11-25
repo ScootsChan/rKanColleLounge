@@ -29,6 +29,8 @@ StoneFlame - communications guy in love with Isonami
 
 EatMortredCrits, ruiooshima, DuskOfDawn23 & Secretary_Ooyodo - the administrators of the Joint Anti-Abyssal Staff 
 
+ZeonTwoSix - japanese guy searching for musashi
+
 Scoots - us army guy that manages communications and tech stuff
 
 AdmiralSun - busy japanese man waiting for Tirpitz 
