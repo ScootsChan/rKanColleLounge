@@ -27,6 +27,8 @@ AverageTomato - a finn zuizui'ing zuizui's zuizuis
 
 Scoots - us army guy that manages communications and tech stuff
 
+AdmiralSun - busy japanese man waiting for Tirpitz 
+
 (if I miss anyone important that should probably be in here, just edit this file and add more to this I guess)
 
 ### Currently implemented Kanmusumes
