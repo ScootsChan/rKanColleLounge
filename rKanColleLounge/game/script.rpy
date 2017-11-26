@@ -8,11 +8,13 @@ define wolf = Character("Ashigara")
 
 label start:
 
-    scene yokosuka-water-boats
+    scene kure-naval-headquarters
     
     me "Today is the start of a new life."
     
-    me "I enter the large building in front of me, clearly the main area of operations in this base."
+    me "I prepare to enter the large building in front of me, clearly the main area of operations in this base."
+    
+    me "however, before I can pass through the doors, a person dressed in an officer's uniform bumps into me on the way out."
     
     show scoots
     with easeinbottom
@@ -42,5 +44,8 @@ label ashigarastart:
     "He points toward a door."
     wolf "Thank you!"
     sc "No problem."
+    
+    hide scoots
+    with easeoutbottom
 
 return
