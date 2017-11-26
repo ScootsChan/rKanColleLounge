@@ -21,9 +21,15 @@ Wororg - a german with a quest for more coffee
 
 Kazul - american r&d guy
 
-Velikiy - angry russian bicycle man
+Velikiy_Knyaz - angry russian bicycle man
 
 AverageTomato - a finn zuizui'ing zuizui's zuizuis
+
+StoneFlame - communications guy in love with Isonami
+
+EatMortredCrits, ruiooshima, DuskOfDawn23 & Secretary_Ooyodo - the administrators of the Joint Anti-Abyssal Staff 
+
+ZeonTwoSix - japanese guy searching for musashi
 
 Scoots - us army guy that manages communications and tech stuff
 
