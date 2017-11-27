@@ -32,7 +32,7 @@ menu:
     "Ashigara.": #you become ashigara
 
         
-        wolf "I'm Ashigara, the third Myoukou!"
+        wolf "I'm Ashigara, the fourth Myoukou!"
         jump wolfstart
         
     "Shinano.": #starts shinano route
@@ -41,10 +41,37 @@ menu:
         
         #hide scoots
         
-        scene shinano-route-start
+        show sn-prompt-1
         
-        pause 1.0
+        pause 0.5
+
+        show sn-prompt-2
+
+        pause 0.5
+
+        show sn-prompt-3
         
+        pause 0.5
+
+        show sn-prompt-4
+        pause 0.5
+
+        show sn-prompt-5
+        pause 0.5
+
+        show sn-prompt-6
+        pause 0.5
+
+        show sn-prompt-7
+        pause 0.5
+
+        show sn-prompt-8
+        pause 0.5
+
+        show sn-prompt-9
+        pause 0.5
+
+        show sn-prompt-10
         jump shinanostart
         
         
@@ -82,7 +109,7 @@ label wolfastraphintroduction:
     
 #Shinano: route start---------------------------------------------------------------------------------------------------------------------------------------------------
 
-label shinanostart: # basically a repeat of the origional start, but keeping track of the fact that you're now on the Shinano route
+label shinanostart: # basically a repeat of the original start, but keeping track of the fact that you're now on the Shinano route
 
     scene kure-naval-headquarters
     
@@ -94,8 +121,8 @@ label shinanostart: # basically a repeat of the origional start, but keeping tra
     
     show scoots
     with easeinbottom
-    
-    unknown "Oh! Hello! Didn't see you there!"
+
+    unknown "Oh! Hello! Didn't see you there! Sorry about that, something's a bit wrong in my head today."
     
     unknown "You seem new 'round these parts, what's your name?"
 
@@ -105,7 +132,7 @@ menu:
     
     "Ashigara.": #Ashigara subroute
         
-        wolf "I'm Ashigara, the third Myoukou!"
+        wolf "I'm Ashigara, the fourth Myoukou!"
         jump shinano_ashigara_sub_route_start
         
 # Shinano Ashigara sub route start--------------------------------------------------------------------------------------------------------------------------
@@ -124,4 +151,16 @@ label shinano_ashigara_sub_route_start:
     
     hide scoots
     with easeoutbottom
+
+    jump shinano_wolfastraphintroduction #jumps to (shinano's ver. of) astraph's introduction
+label shinano_wolfastraphintroduction:
+
+    scene hallway
+    with wipeleft
+
+    "I head towards Astraph's office. He is sure to recognize me."
+    "I push open the door into his room."
+
+    scene office
+    with wipeleft
 return

@@ -11,3 +11,12 @@ Changes:
  - added a Hallway background since it was referenced, but no image existed
  - started on a "Shinano route" and added relevant files
  - added dashed lines to make it easier to identify different story sections while scrolling through the code
+ 
+patch: 11/27/2017 ~4:55 pm EST
+ScootsChan
+Changes:
+ - altered the Shinano replacement scene so it's more animated and looks nicer
+ - added missing part of ashigara's line into shinano's ashigara line
+ - turns out ashigara was the fourth myoko and not the third
+ - added office CG (forgot about it and the hallway CGs in last commit)
+ - changed this file to a txt so I could edit it via text editing programs
