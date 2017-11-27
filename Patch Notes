@@ -1,0 +1,13 @@
+Patch Notes:
+
+this is a file where (ideally) after every major patch we can list a short summary of
+all the changes made so people don't have to go hunting for the changes. patch notes 
+should go in order of newest to oldest, and all should include the date and the person doing the update.
+
+patch: 11/27/2017 12:23 pm Pacific time
+Velikiy-Knyaz
+Changes:
+ - Fixed a syntax error from the previous version
+ - added a Hallway background since it was referenced, but no image existed
+ - started on a "Shinano route" and added relevant files
+ - added dashed lines to make it easier to identify different story sections while scrolling through the code
